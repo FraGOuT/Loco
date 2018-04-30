@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="C:\Users\Himanshu\Documents\AndroidStudioProjects\Loco\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_4b8514c3ff536c619ce6f24fc831a0fbba9ceeef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\.android\build-cache\abe4f3ece58c8f4ef2a41f5ebcc7a5ed85883a48\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Himanshu\Documents\AndroidStudioProjects\Loco\app\build\intermediates\pre-dexed\debug\classes_8ad6647c9b6df24cdce920e7df8da3be6cdf71fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\.android\build-cache\8d4256abda9f5cde7698c2afdf7c9e9e36d59f27\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Himanshu\Documents\AndroidStudioProjects\Loco\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_db0ac6078a1e718660c9c4e1b5b7d2d804c4826d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\.android\build-cache\14a1896343172c43e9cda0e1178b26b7f98ed085\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Himanshu\Documents\AndroidStudioProjects\Loco\app\build\intermediates\pre-dexed\debug\classes_8f2cec71358948c4e1d97c0780fa4da1e5b3cbe3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\.android\build-cache\8d4256abda9f5cde7698c2afdf7c9e9e36d59f27\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Himanshu\Documents\AndroidStudioProjects\Loco\app\build\intermediates\pre-dexed\debug\classes_9a28b7ce1c62e99f5f90514e953f37bc8ed0f806.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\.android\build-cache\7f4b6a7435c77f85f7893c73d039b3d27b60f27c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="C:\Users\Himanshu\Documents\AndroidStudioProjects\Loco\app\build\intermediates\pre-dexed\debug\classes_159835ffc5347813aef150f1c505b8d4ec21fc12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\.android\build-cache\713a9ab20e5580ac1f4196ff9705b5933dffd403\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Himanshu\Documents\AndroidStudioProjects\Loco\app\build\intermediates\pre-dexed\debug\classes_4dac9a1260f9fbf901e20fbed37374006d98b977.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Himanshu\Documents\AndroidStudioProjects\Loco\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_dee38fdb8be4c80e4e57104f8a5998e030af3d0b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Himanshu\.android\build-cache\51df5a84556fbdc5c8a98fc83f7cbc1c136e0574\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Himanshu\Documents\AndroidStudioProjects\Loco\app\build\intermediates\pre-dexed\debug\classes_8023e613c1d418f5c5e28ff663b417fb4079b3e1.jar" />
+    </item>
+
+</items>
